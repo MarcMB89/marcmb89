@@ -41,11 +41,6 @@ I made this project just for fun, it allows you to create nice and simple GitHub
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/></a>
 </p>
 
-![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcMB89&show_icons=true&theme=merko)
-
-
-
-
 
 <!--
 **MarcMB89/marcmb89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
