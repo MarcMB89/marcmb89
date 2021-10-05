@@ -8,7 +8,7 @@ Skills: REACT / REACT NATIVE / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
-![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcmartin&hide=contribs,prs)
+![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcmb89&hide=contribs,prs)
 
 
 
