@@ -7,8 +7,8 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 Skills: REACT / REACT NATIVE / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
-
-[![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcMB89)](https://github.com/anuraghazra/github-readme-stats)
+- 
+![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcMB89&show_icons=true&theme=merko)
 
 
 
