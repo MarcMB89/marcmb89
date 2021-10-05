@@ -8,6 +8,9 @@ Skills: REACT / REACT NATIVE / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
+![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
+
 
 
 
