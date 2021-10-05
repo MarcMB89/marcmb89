@@ -1,7 +1,8 @@
 # Marc Martín Barrios
 ### Full Stack Developer 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-  
+
+### Check my Linkedin
 <a href="https://www.linkedin.com/in/marc-martín-barrios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/marc-martin-barrios/" height="25" width="35" /></a>
 
 Skills: REACT / REACT NATIVE / JS / HTML / CSS
