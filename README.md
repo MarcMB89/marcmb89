@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi there 👋, my name is Marc
+#### Full Stack Developer 
+![Full Stack Developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: REACT / REACT NATIVE / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 <!--
 **MarcMB89/marcmb89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
