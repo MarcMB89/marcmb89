@@ -5,7 +5,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 ### Check my Linkedin
 <a href="https://www.linkedin.com/in/marc-martín-barrios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/marc-martin-barrios/" height="25" width="35" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
+### Tecnologies and tools
 <p align="left"> 
      <a href="https://www.w3.org/html/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="35" height="35"/></a> 
@@ -41,14 +41,6 @@ I made this project just for fun, it allows you to create nice and simple GitHub
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/></a>
 </p>
 
-
-REACT / REACT NATIVE / JS / HTML / CSS
-
-- 🔭 I’m currently working on Plantdroid project. 
-  
-### SKILLS AND EXPERIENCE
-  - 
-  - 📳 REACT NATIVE
 ![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcMB89&show_icons=true&theme=merko)
 
 
